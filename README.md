@@ -8,7 +8,7 @@ It can display and announce the current SimRate via voice. Another feature is th
 ## Features
 * Display current SimRate and distance to next waypoint in app
 * Announce current SimRate via voice on change
-* Automatic SimRate increase/decrease until final waypoint of flight plan is reached
+* Automatic SimRate increase/decrease until final waypoint of flight plan is reached (description below)
 * _[TODO] Configurable Auto SimRate_
 * _[TODO] Display current SimRate as overlay_
 * ...
