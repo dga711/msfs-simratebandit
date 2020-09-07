@@ -3,7 +3,7 @@ This tool will help you with controlling and indicating current SimRate in Micro
 
 It can display and announce the current SimRate via voice. Another feature is the automatic increase and decrease of SimRate along your flight plan.
 
-<img src="https://i.imgur.com/IlaJZcC.png" width="220" />
+<img src="https://i.imgur.com/0xm5cgx.png" width="220" />
 
 ## Features
 * Display current SimRate and distance to next waypoint in app
