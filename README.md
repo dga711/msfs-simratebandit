@@ -1,4 +1,4 @@
-# FS Captain
+# FS SimRate Bandit
 This tool will help you with controlling and indicating current SimRate in Microsoft FlightSimulator 2020 via SimConnect.
 
 It can display and announce the current SimRate via voice. Another feature is the automatic increase and decrease of SimRate along your flight plan.
